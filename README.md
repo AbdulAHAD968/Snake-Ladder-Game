@@ -1,5 +1,7 @@
 # Snakes and Ladders Game (SFML C++)
 
+<img src="header.png" alt="Background Image">
+
 ## Introduction
 This is a simple **Snakes and Ladders** game built using **C++ and SFML (Simple and Fast Multimedia Library)**. The game allows two players to roll the dice and move their pieces accordingly. Snakes will bring you down, and ladders will help you climb up. The first player to reach the last tile wins!
 
@@ -79,7 +81,7 @@ Replace `<sfml-include-path>` and `<sfml-lib-path>` with the actual SFML paths o
 ---
 
 ## Credits
-Developed by **[Your Name]** using **C++ and SFML**. 🚀
+Developed by **[Abdul Ahad]** using **C++ and SFML**. 🚀
 
 If you liked this project, consider giving it a ⭐ on GitHub!
 
